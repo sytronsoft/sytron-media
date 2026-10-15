@@ -1,0 +1,56 @@
+{
+ "product": "SytronANPR",
+ "total_secs": 61.5,
+ "note": "Round 11 flow reel. Voice only, no music. 'at' = start second of each line; scenes are in scripts/make_reel_flow.py (BND). Facts only from facts/company.yaml. Vehicle type, plate, time are shown; colour is NOT claimed (not in the facts).",
+ "engine_note": "Rendered with the offline Kokoro voice bm_george because VOICE_API_KEY / VOICE_ID were missing in this run.",
+ "lines": [
+  {
+   "at": 0.3,
+   "text": "Hello, tech enthusiasts! Welcome to SytronSoft."
+  },
+  {
+   "at": 4.4,
+   "text": "Smarter cameras. Intelligent recognition. Real-world automation."
+  },
+  {
+   "at": 9.6,
+   "text": "Here's our ANPR system in action!"
+  },
+  {
+   "at": 12.5,
+   "text": "The camera watches the road. SytronANPR locks on to every number plate in view."
+  },
+  {
+   "at": 18.4,
+   "text": "Single or double line, Indian plates are read in real time."
+  },
+  {
+   "at": 23.1,
+   "text": "Every read lands in the dashboard, with the plate, the vehicle type and the time."
+  },
+  {
+   "at": 28.5,
+   "text": "It tells cars, buses, trucks, two-wheelers and autos apart."
+  },
+  {
+   "at": 33.6,
+   "text": "Day, night, rain or glare, it keeps reading."
+  },
+  {
+   "at": 36.8,
+   "text": "An instant email alert arrives, with the plate image."
+  },
+  {
+   "at": 40.8,
+   "text": "And the barrier opens only for whitelisted plates."
+  },
+  {
+   "at": 45.6,
+   "text": "Reports follow by email, daily or weekly, as PDF, Word or CSV."
+  },
+  {
+   "at": 51.6,
+   "text": "SytronANPR. Read every plate, track every vehicle, control every gate. Visit www.sytronsoft.com."
+  }
+ ]
+}
