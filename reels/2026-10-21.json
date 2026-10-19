@@ -1,0 +1,52 @@
+{
+ "product": "SytronANPR",
+ "total_secs": 74.0,
+ "note": "Reel 3 What you get and what it protects (record to action). Voice only, am_adam, no music. 'at' = start second of each line, one line per scene; 'title' = short title under the scene. Facts only from facts/company.yaml and the brief; 'instant' only for the email alert. Closing scene held 8 s so the line and website can be heard.",
+ "lines": [
+  {
+   "at": 0.2,
+   "text": "SytronANPR: Automatic Number Plate Recognition.",
+   "title": "Meet SytronANPR"
+  },
+  {
+   "at": 4.4,
+   "text": "Records pile up. By the time anyone looks, the vehicle is long gone.",
+   "title": "Seen too late is not seen"
+  },
+  {
+   "at": 13.4,
+   "text": "Now every vehicle shows on the dashboard as it happens, with its plate, type and time.",
+   "title": "Every vehicle, as it happens"
+  },
+  {
+   "at": 21.4,
+   "text": "An instant email alert reaches your inbox, with the plate image.",
+   "title": "An alert in your inbox"
+  },
+  {
+   "at": 29.4,
+   "text": "At the gate, only a whitelisted plate lifts the barrier.",
+   "title": "The gate opens for whitelisted plates only"
+  },
+  {
+   "at": 38.4,
+   "text": "Rule breakers are detected: no helmet, triple riding, no seatbelt, and over speed by radar.",
+   "title": "Rule breakers, detected"
+  },
+  {
+   "at": 49.4,
+   "text": "The road is watched too: lane change, heavy traffic, congestion, poor visibility, even a person on the highway.",
+   "title": "The road itself, watched"
+  },
+  {
+   "at": 58.4,
+   "text": "Reports reach your mailbox as PDF, Word or CSV, daily or weekly.",
+   "title": "Daily or weekly, in your mailbox"
+  },
+  {
+   "at": 66.4,
+   "text": "SytronANPR. Read every plate, track every vehicle, control every gate. www.sytronsoft.com",
+   "title": "SytronANPR"
+  }
+ ]
+}
