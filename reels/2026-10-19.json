@@ -1,0 +1,57 @@
+{
+ "product": "SytronANPR",
+ "total_secs": 72.0,
+ "note": "Reel 2 How it sees. Voice only (am_adam), no music. 'at' = start second of each line, one line per scene (plan.md). 'title' = short title shown under that scene. Facts only from facts.md; no numbers, no handles. Closing differs from reel 1 and reel 3.",
+ "lines": [
+  {
+   "at": 0.3,
+   "text": "Meet SytronANPR: Automatic Number Plate Recognition.",
+   "title": "Meet SytronANPR"
+  },
+  {
+   "at": 4.3,
+   "text": "Vehicles pass in a blink, and nobody can write down every plate.",
+   "title": "Too many plates, too little time"
+  },
+  {
+   "at": 12.2,
+   "text": "A camera looks at the road, and the system reads.",
+   "title": "The camera looks, the system reads"
+  },
+  {
+   "at": 17.2,
+   "text": "Single line or double line, Indian plates are read as they arrive, in real time.",
+   "title": "One line or two, read as it arrives"
+  },
+  {
+   "at": 26.2,
+   "text": "Several plates in one camera view are each found and read.",
+   "title": "Many plates, one view"
+  },
+  {
+   "at": 34.2,
+   "text": "Day, night, rain or glare, it keeps on reading.",
+   "title": "Day, night, rain, glare: still reading"
+  },
+  {
+   "at": 43.2,
+   "text": "It knows what is passing: car, bus, truck, two-wheeler or auto.",
+   "title": "It knows what is passing"
+  },
+  {
+   "at": 51.2,
+   "text": "Radar adds the speed of each vehicle.",
+   "title": "Radar adds the speed"
+  },
+  {
+   "at": 58.2,
+   "text": "For every vehicle it saves the plate image, the car image, the date, the time and the speed.",
+   "title": "Every vehicle, saved as one record"
+  },
+  {
+   "at": 67.2,
+   "text": "It sees. It reads. It remembers. www.sytronsoft.com",
+   "title": "It sees. It reads. It remembers."
+  }
+ ]
+}
