@@ -1,0 +1,19 @@
+{
+ "product": "ZoneGuard-AI",
+ "total_secs": 70.5,
+ "speed": 1.0,
+ "note": "Instagram reel Mon 16 Nov 2026 22:00, ZoneGuard-AI real demo ('Watch this red box turn green'). Voice only (Kokoro am_adam), no music, demo muted. 'at' = start second of each line; scene windows are in script.md (scene N = line N). Facts only from facts/company.yaml (ZoneGuard-AI F1-F5) and what the demo shows; all research.md CHANGE rewordings applied. No numbers read aloud, no Video Recording claim, no @handles, no pvt ltd. Spoken forms: 'ZoneGuard A I', 'sytronsoft dot com', 'info at sytronsoft dot com'. Last ~1.5 s silent.",
+ "lines": [
+  {"at": 0.25, "text": "Watch this red box. Soon it turns green."},
+  {"at": 3.2,  "text": "This is ZoneGuard A I, monitoring presence live. That box marks one desk as a zone."},
+  {"at": 9.2,  "text": "Nobody is in the chair yet, so the zone reads inactive, and the counter at the top says so too."},
+  {"at": 15.2, "text": "Now he takes the chair. Red turns green, and the counters and the status switch to active."},
+  {"at": 21.2, "text": "Active and inactive time are tracked per workstation. Each zone runs a timer of its own, and zones are unlimited."},
+  {"at": 28.7, "text": "When more than one person is detected at a workstation, an alert comes with a snapshot. The alerts page lists each one."},
+  {"at": 36.2, "text": "Each alert carries its screenshot, and an operator marks it acknowledged. That leaves a clear audit trail."},
+  {"at": 42.7, "text": "In Configuration, set the detection threshold on a confidence slider, and choose whether the live feed shows a box and an ID label on each person."},
+  {"at": 52.2, "text": "Shift start and shift end are set here too, and monitoring is only active during shift hours."},
+  {"at": 58.2, "text": "New users are added from one short form, each with a role."},
+  {"at": 62.2, "text": "ZoneGuard A I, by Sytronsoft. Visit sytronsoft dot com, or mail info at sytronsoft dot com."}
+ ]
+}
