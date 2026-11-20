@@ -1,0 +1,27 @@
+{
+ "product": "SytronMark-AI",
+ "total_secs": 67.0,
+ "note": "Instagram REEL Fri 20 Nov 2026 22:00, idea 'The jewellery box: where the marks hide', plan drafts/2026-11-20-reel/plan.md, every fix of drafts/2026-11-20-reel/research.md applied: no world claim in the hook ('Look where the tiny marks hide'), no metal word next to 916 or 925 (voice and titles), 'plated' only (no rose/gold-plated), no 'at day's end' (F7 'Every day'/'daily'), the upside-down piece in scene 6 carries 925 (916 reads the same upside down), the no-internet chip is a corner chip and gone before the scene 9 email, no seconds figure, no verdict words. Voice only, no music, Kokoro am_adam. 'at' = start second of each line = start of its scene; one line per scene; 'slot' = scene start-end in seconds; 'title' = the title line under the scene. Spoken forms: 916 'nine one six', 925 'nine two five', BIS 'B I S', website 'w w w dot sytronsoft dot com'; titles keep 916 / 925 / BIS / www.sytronsoft.com. The last line ends about 1.4 s before 67.0 s, the last frames are still. Facts: P1, F1-F7, C1, C2 of the research table only. Fact-check 19 Nov: scene 8 voice and scene 9 voice + title now use the exact fact wording ('works offline, no internet needed'; 'daily report by email in PDF, Word, Excel or CSV'), see drafts/2026-11-20-reel/factcheck.md.",
+ "lines": [
+  {"at": 0.0, "scene": 1, "slot": "0.0-6.0", "title": "Look where the tiny marks hide",
+   "text": "We are Sytronsoft. Tonight, look where the tiny marks hide on jewellery."},
+  {"at": 6.0, "scene": 2, "slot": "6.0-12.5", "title": "SytronMark-AI: hallmark and stamp recognition",
+   "text": "SytronMark-AI is hallmark and stamp recognition. Let's open the box."},
+  {"at": 12.5, "scene": 3, "slot": "12.5-19.5", "title": "Inside a ring band: 916, read in seconds",
+   "text": "This ring keeps its mark inside the band. Purity mark nine one six, read in seconds."},
+  {"at": 19.5, "scene": 4, "slot": "19.5-26.0", "title": "On the back of a pendant: 925",
+   "text": "A pendant carries its mark on the back. Nine two five."},
+  {"at": 26.0, "scene": 5, "slot": "26.0-34.0", "title": "BIS marks, stamp marks and plated pieces",
+   "text": "A bangle with a B I S mark. A plated chain, stamped on its clasp. Both are read."},
+  {"at": 34.0, "scene": 6, "slot": "34.0-40.5", "title": "Upside down, and still read",
+   "text": "This pendant hangs upside down. Leave it there. Any angle, even upside down."},
+  {"at": 40.5, "scene": 7, "slot": "40.5-47.0", "title": "Each photo: sharpness and glare checked",
+   "text": "Shiny metal, tiny marks. Every photo is checked for sharpness and glare."},
+  {"at": 47.0, "scene": 8, "slot": "47.0-53.5", "title": "Works offline, no internet needed",
+   "text": "Here the reading just goes on. SytronMark-AI works offline, no internet needed."},
+  {"at": 53.5, "scene": 9, "slot": "53.5-60.5", "title": "Daily report by email in PDF, Word, Excel or CSV",
+   "text": "A daily report comes by email in PDF, Word, Excel or CSV."},
+  {"at": 60.8, "scene": 10, "slot": "60.5-67.0", "title": "www.sytronsoft.com",
+   "text": "See SytronMark-AI at w w w dot sytronsoft dot com."}
+ ]
+}
