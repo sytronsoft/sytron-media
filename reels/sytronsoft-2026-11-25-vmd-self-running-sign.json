@@ -1,0 +1,106 @@
+{
+ "product": "Variable Message Display",
+ "total_secs": 58,
+ "speed": 1.0,
+ "voice": "am_adam",
+ "note": "Reel + YouTube Short Wed 25 Nov 2026 (one 9:16 video, 58 s). Facts only from facts/company.yaml Variable Message Display. Voice only, no music. Only numbers: up to 8,000 nits, IP65, 24/7. No sensor type, no speed claim.",
+ "lines": [
+  {
+   "at": 0.4,
+   "text": "Hi, we are Sytronsoft. A road sign you can schedule."
+  },
+  {
+   "at": 4.4,
+   "text": "The Variable Message Display: high-brightness L E D signage for highways and cities."
+  },
+  {
+   "at": 10.4,
+   "text": "As day turns to night, its brightness control is automatic. Bright by day, controlled by night."
+  },
+  {
+   "at": 18.4,
+   "text": "You can schedule messages, so the right words appear at the right time, on a schedule you set."
+  },
+  {
+   "at": 25.4,
+   "text": "Or trigger your messages from live sensor data. The schedule, or the sensors, choose the words."
+  },
+  {
+   "at": 33.4,
+   "text": "It is built from modular panels. And those panels can be swapped without downtime."
+  },
+  {
+   "at": 42.4,
+   "text": "Up to eight thousand nits. Remote updates. I P sixty-five weatherproof."
+  },
+  {
+   "at": 48.4,
+   "text": "Built for twenty-four seven outdoor use, for highways and smart cities."
+  },
+  {
+   "at": 53.4,
+   "text": "See it at w w w dot sytronsoft dot com."
+  }
+ ],
+ "scenes": [
+  {
+   "start": 0,
+   "secs": 4,
+   "title": "Variable Message Display",
+   "sign": ""
+  },
+  {
+   "start": 4,
+   "secs": 6,
+   "title": "High-brightness LED signage",
+   "sign": "SAFE\nJOURNEY"
+  },
+  {
+   "start": 10,
+   "secs": 8,
+   "title": "Automatic day and night brightness",
+   "sign": "SAFE\nJOURNEY"
+  },
+  {
+   "start": 18,
+   "secs": 7,
+   "title": "Messages on a schedule",
+   "sign": "GOOD MORNING\nUSE HEADLIGHTS"
+  },
+  {
+   "start": 25,
+   "secs": 8,
+   "title": "Triggered by live sensor data",
+   "sign": "CAUTION\nAHEAD"
+  },
+  {
+   "start": 33,
+   "secs": 9,
+   "title": "Swap panels without downtime",
+   "sign": "MERGE\nRIGHT"
+  },
+  {
+   "start": 42,
+   "secs": 6,
+   "title": "Bright. Remote. Weatherproof.",
+   "sign": "STAY\nIN LANE"
+  },
+  {
+   "start": 48,
+   "secs": 5,
+   "title": "For highways and smart cities",
+   "sign": "CITY\nCENTRE"
+  },
+  {
+   "start": 53,
+   "secs": 5,
+   "title": "SYTRONSOFT. Innovate. Develop. Deliver.",
+   "sign": ""
+  }
+ ],
+ "badges": [
+  "Up to 8,000 nits",
+  "Remote update",
+  "IP65 weatherproof"
+ ]
+}
