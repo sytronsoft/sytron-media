@@ -1,0 +1,65 @@
+{
+ "product": "Variable Message Display",
+ "total_secs": 58,
+ "speed": 1.0,
+ "voice": "am_adam",
+ "note": "Reel + YouTube Short Mon 30 Nov 2026 (one 9:16 video, 58.0 s), 'Two ways across the river'. Plan: drafts/2026-11-30-reel/plan.md; facts check: drafts/2026-11-30-reel/facts.md (all FLAG fixes and all recommended/optional rewordings applied); script and budget: drafts/2026-11-30-reel/script.md. Voice starts after the logo (no greeting over the 0-4 s logo). Facts only from facts/company.yaml Variable Message Display: high-brightness LED signage for highways and (smart) cities; update messages remotely from the web or an app; automatic day and night brightness control; schedule messages (schedule half only, no sensor). Fact-check 28 Nov (drafts/2026-11-30-reel/fact-check.md): brand name instead of 'our' (no greeting in this reel), lane closure only as the example sign message, no 'by itself' or board-specific wording for the schedule. No nits, IP65, 24/7, modular-panel, sensor, double-sided or selective-board claims. LED spelled 'L E D' so Kokoro reads the letters; on-screen text keeps 'LED'. No numbers spoken. Voice only, no music.",
+ "lines": [
+  {
+   "at": 4.2,
+   "text": "A river bridge, leading into the city. A message for each way."
+  },
+  {
+   "at": 10.3,
+   "text": "This is the Sytronsoft Variable Message Display. High-brightness L E D signage for highways and cities."
+  },
+  {
+   "at": 17.3,
+   "text": "Before dawn, a new message: right lane closed. Update messages remotely, from the web or an app."
+  },
+  {
+   "at": 26.3,
+   "text": "Then the sun rises over the river. The display has automatic day and night brightness control."
+  },
+  {
+   "at": 34.3,
+   "text": "Messages can also be scheduled. At the set time, the scheduled message comes up."
+  },
+  {
+   "at": 43.3,
+   "text": "Highway traffic reads one board, city traffic the other. Signage for highways and smart cities."
+  },
+  {
+   "at": 51.3,
+   "text": "Variable Message Display, by Sytronsoft. Innovate. Develop. Deliver. Visit sytronsoft dot com."
+  }
+ ],
+ "titles": [
+  "Variable Message Display",
+  "One bridge, two directions",
+  "A message each way",
+  "Updated remotely, web or app",
+  "Automatic day and night brightness",
+  "Scheduled for the morning",
+  "For highways and cities",
+  "Innovate. Develop. Deliver."
+ ],
+ "scenes": [
+  {"start": 0,  "secs": 4, "title": "Variable Message Display",           "sign": ""},
+  {"start": 4,  "secs": 6, "title": "One bridge, two directions",         "sign": "ENTERING\nCITY"},
+  {"start": 10, "secs": 7, "title": "A message each way",                 "sign": "ENTERING\nCITY + TAKE A\nBREAK"},
+  {"start": 17, "secs": 9, "title": "Updated remotely, web or app",       "sign": "city face: ENTERING\nCITY -> RIGHT LANE\nCLOSED; highway face stays TAKE A\nBREAK"},
+  {"start": 26, "secs": 8, "title": "Automatic day and night brightness", "sign": "RIGHT LANE\nCLOSED + TAKE A\nBREAK"},
+  {"start": 34, "secs": 9, "title": "Scheduled for the morning",          "sign": "highway face: TAKE A\nBREAK -> PEAK HOUR\nBE PATIENT"},
+  {"start": 43, "secs": 8, "title": "For highways and cities",            "sign": "RIGHT LANE\nCLOSED + PEAK HOUR\nBE PATIENT"},
+  {"start": 51, "secs": 7, "title": "Innovate. Develop. Deliver.",        "sign": ""}
+ ],
+ "badges": [
+  "Automatic day and night brightness"
+ ],
+ "app_card": {
+  "s4": "globe icon + phone icon, one message box typing RIGHT LANE CLOSED, Send (no URL, no display picker)",
+  "s6": "one row 'Scheduled' with a digit-free clock glyph and a closing ring (no times, no list, no sensor)"
+ },
+ "end_card": ["Sytronsoft logo", "Innovate. Develop. Deliver.", "www.sytronsoft.com", "info@sytronsoft.com", "Electronic City, Bengaluru 560083"]
+}
